@@ -1,5 +1,5 @@
 {
-    "name": "slm/cache",
+    "name": "westhead/SlmCache",
     "description": "Zend Framework 2 module to enable route based page caching",
     "license": "BSD-3-Clause",
     "type": "library",
